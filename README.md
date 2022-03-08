@@ -1,8 +1,8 @@
 #High-precision Pallet Detection and Localization using RGB-D camera for Forklift Transportation
 ===
-This is a small part of the dataset, the full dataset will be released later.   
+Above is a small part of the dataset, the full dataset will be released later.   
 **Notice:**  
-Because the forklift is broken, the video of our algorithm deployment on the forklift will be uploaded later
+**Around the date the video was submitted, the forklift broke down. So the joint video of pallet detection algorithm and forklift navigation will be uploaded later.**
 
 
 
